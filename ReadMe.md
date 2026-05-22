@@ -2,4 +2,13 @@
 
 > this is light. Hello
 
+<<<<<<< HEAD
+
+Not so sure i do!
+=======
 > still light
+>>>>>>> origin/light
+
+> still light
+
+Not so sure i do!
